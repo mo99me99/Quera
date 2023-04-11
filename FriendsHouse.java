@@ -1,3 +1,4 @@
+//https://quera.org/problemset/176782/
 import java.util.Scanner;
 public class FriendsHouse{
 	public static void main(String args[]){
